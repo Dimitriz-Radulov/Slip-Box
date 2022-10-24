@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "be793e34c045815e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27f7e3830233b860",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Note Template.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef6abfe82a6f8057",
+    "type": "split",
+    "children": [
+      {
+        "id": "febd8b3fb75794c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702b2da443267d23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c4ecf923fcab2df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d09d1051284692ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d940500817997f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f029688cf0bc300",
+        "type": "tabs",
+        "dimension": 48.519948519948514,
+        "children": [
+          {
+            "id": "c0ac68baca84b1ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f48a7315c8a93e8",
+        "type": "tabs",
+        "dimension": 25.740025740025743,
+        "children": [
+          {
+            "id": "8c76dd01bb3eec21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Note Template.md"
+              }
+            }
+          },
+          {
+            "id": "77d0fce98d762d9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Note Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1214206d1d6002b",
+        "type": "tabs",
+        "dimension": 25.740025740025743,
+        "children": [
+          {
+            "id": "8a84ee4b9771aade",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271
+  },
+  "active": "27f7e3830233b860",
+  "lastOpenFiles": [
+    "111 Class Notes/2022-09-16 - french 1.md",
+    "111 Class Notes/16092022 - french 1.md",
+    "Fleeting Notes/2022-08-22.md",
+    "Excalidraw/Drawing 2022-08-23 15.19.00.excalidraw.md",
+    "Fleeting Notes/2022-08-24.md",
+    "Literature Notes/The  7 phases of Youtube.md",
+    "Fleeting Notes/2022-08-23.md",
+    "bearblog.dev.md",
+    "Templates/Note Template.md"
+  ]
+}
